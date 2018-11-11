@@ -11,8 +11,6 @@
   "dependencies": {
     "axios": "0.18.0",
     "body-parser": "1.18.3",
-    "moment": "2.22.2",
-    "nodemon": "1.18.6",
     "restana": "2.2.1"
   }
 }
